@@ -1,4 +1,4 @@
-package Educentre;
+package educentre;
 
 public class Educentre {
     
