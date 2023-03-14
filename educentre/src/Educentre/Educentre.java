@@ -20,7 +20,8 @@ public class Educentre {
     // . Date d'aujourd'hui =>  SimpleDateFormat
     // . Donner son avis pour une date et un cours => Menu avec choix pour chaque cours + séléction de la date puis saisir une note de 1 à 5
 
-    //Option Déconnection/Connection => 
+    //Option Déconnection/Connection => Demander une confirmation via println() + scan.nextLine() puis confirmer la déconnexion avec un return sur la connexion
+    
 
 
 
