@@ -22,7 +22,7 @@ public class Educentre {
 
     //Option Déconnection/Connection => Demander une confirmation via println() + scan.nextLine() puis confirmer la déconnexion avec un return sur la connexion
     
-    // test
+    // petit test
 
 
 }
